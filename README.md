@@ -11,7 +11,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nico-molina191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-molina-dev" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/nico-molina191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nico-molina-191" height="40" width="50" /></a>
 </p>
 
 <a href="https://github.com/nicomolina191">
