@@ -1,7 +1,7 @@
 <img align="center" src="https://i.ibb.co/25V5YSq/Nicol-s-Molina.gif" alt="Nicolas-Molina" width=100% height=500px>
 <h1 align="center">Hola! 👋, soy Nico</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<p>Soy Full Stack Web Developer y actualmente estoy terminando mi cursada en el bootcamp de Henry. Busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de las mismas.</p>
+<p>Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos.</p>
 
 - 🇦🇷 Argentina
 
